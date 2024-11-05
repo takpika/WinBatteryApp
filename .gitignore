@@ -1,0 +1,7 @@
+.DS_Store
+[Dd]esktop.ini
+
+.vs/
+BatteryAppForm/obj/
+BatteryAppForm/bin/
+*.user
